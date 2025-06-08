@@ -18,7 +18,7 @@ I am a passionate software developer and I am currently studying Software Engine
 I have hands-on experience in technical support and web development, and some successful projects as you can see in my GitHub highlights.  
 I learn quickly and I love doing it.
 
-I’m actively building full-stack projects, AI assistant integrations, and exploring modern tools in both frontend and backend development.  
+I’m actively building full-stack projects, AI assistant integrations, and exploring modern tools in both frontend and backend development on github and [GitLab](https://gitlab.com/hsmg777).  
 I also love data analysis!
 
 ---
