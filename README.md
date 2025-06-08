@@ -36,7 +36,7 @@ I also love data analysis!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python (Flask)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="40" title="Laravel"/>
-  <img src="  https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" width="40" title="MariaDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
