@@ -8,7 +8,7 @@ Better known as Sebas, Haychis or Hay 👾
 🎓 Software Engineering Student – Universidad de Las Américas (UDLA)  
 📧 haylandsebastian5@gmail.com / hayland.montalvo@udla.edu.ec
 🔗 [LinkedIn](https://www.linkedin.com/in/hayland-montalvo-392137232)  
-🐱 [GitHub](https://github.com/hayland10) / [GitLab](https://gitlab.com/hsmg777)
+🐱 [GitLab](https://gitlab.com/hsmg777)
 
 ---
 
