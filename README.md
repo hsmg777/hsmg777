@@ -6,7 +6,7 @@ Better known as Sebas, Haychis or Hay 👾
 📸 [Instagram](https://www.instagram.com/hayland10/)  
 📍 Quito, Ecuador  
 🎓 Software Engineering Student – Universidad de Las Américas (UDLA)  
-📧 hayland.montalvo@udla.edu.ec  
+📧 haylandsebastian5@gmail.com / hayland.montalvo@udla.edu.ec
 🔗 [LinkedIn](https://www.linkedin.com/in/hayland-montalvo-392137232)  
 🐱 [GitHub](https://github.com/hayland10)
 
@@ -34,7 +34,7 @@ I also love data analysis!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" title=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python (Flask)"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" title="Laravel"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" width="40" title="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MariaDB / MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
